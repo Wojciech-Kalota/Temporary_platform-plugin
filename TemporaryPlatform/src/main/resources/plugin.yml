@@ -1,0 +1,4 @@
+name: TemporaryPlatform
+version: ${project.version}
+main: me.regos.temporaryplatform.TemporaryPlatform
+api-version: 1.17
